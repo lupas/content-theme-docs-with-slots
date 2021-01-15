@@ -1,13 +1,13 @@
 {
   "name": "@lupas/content-theme-docs-with-slots",
   "version": "0.8.2",
-  "repository": "nuxt/content",
+  "repository": "lupas",
   "license": "MIT",
   "files": [
     "src"
   ],
   "scripts": {
-    
+
   },
   "main": "src/",
   "dependencies": {
